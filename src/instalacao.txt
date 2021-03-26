@@ -1,0 +1,8 @@
+
+npm install amazon-cognito-identity-js --save
+npm install reactstrap --save
+npm install bootstrap --save
+npm install react-router-dom --save
+npm install aws-amplify --save
+
+
